@@ -1,0 +1,16 @@
+filename = 'WildWildWestBeta1.1.0.jar'
+name = 'Wild Wild West'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5c0d9be831f301890041153ad61965d81f7fd7d3d5c92f0cfbb445ed3e0399c1d02fd59b21a8fae18421f08dee5089c4116e5d1235b6ccb3e8c12bd30c55ea1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7sDpfmD5/versions/lFU7xDi7/WildWildWestBeta1.1.0.jar'
+
+[update.modrinth]
+mod-id = '7sDpfmD5'
+version = 'lFU7xDi7'

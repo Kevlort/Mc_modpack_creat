@@ -1,0 +1,16 @@
+filename = 'sakes_structures-0.2.1-forge-1.20.1.jar'
+name = "Sake's Structures"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '742d42bb79d4b19bc5c6d2937128d918564e58c90d3726f2bec40fa295548a09bd4528acac149b7a64f9262eacbe7fc2cec0903235286a6047fa6017343d220b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tYmoTAeX/versions/UQg1dVSs/sakes_structures-0.2.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'tYmoTAeX'
+version = 'UQg1dVSs'

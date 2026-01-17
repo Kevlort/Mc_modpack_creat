@@ -1,0 +1,16 @@
+filename = "Iglee's Library-1.20.1-1.2.7.jar"
+name = "Iglee's Library"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c5ec3c4cf7511879e8d33f7f50c92250efc22538becae183029f0a014351b577ac0661ace70355ee685f1e2cb4b4eea661467706f061a7ea1edc068152d87efa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6n6toXVb/versions/fVzB5eJ2/Iglee%27s Library-1.20.1-1.2.7.jar'
+
+[update.modrinth]
+mod-id = '6n6toXVb'
+version = 'fVzB5eJ2'

@@ -1,0 +1,16 @@
+filename = 'atmosphericwatergenerator-1.0.12-forge-1.20.1.jar'
+name = 'Mekanism Atmospheric Water Generator'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '394b8ce875ef804ffbaee4687d6d4e43a697474f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7228219
+project-id = 1260695
